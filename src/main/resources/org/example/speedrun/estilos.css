@@ -1,0 +1,28 @@
+.root {
+    -fx-background-color: lightyellow;
+}
+
+.button {
+    -fx-border-radius: 50px;
+    -fx-background-radius: 50px;
+}
+
+#btnEliminar {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+}
+
+#btnAnadir {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+}
+
+#btnEliminar:hover {
+    -fx-background-color: lightblue;
+    -fx-text-fill: black;
+}
+
+#btnAnadir:hover {
+    -fx-background-color: lightblue;
+    -fx-text-fill: black;
+}
